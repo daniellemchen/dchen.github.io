@@ -5,7 +5,7 @@ description: Welcome to my personal porfolio! > # this means to ignore newlines 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dchen.github.io" # the base hostname & protocol for your site
 
-
+linkedin_username: daniellemchen
 github_username: daniellemchen
 
 # Build settings
